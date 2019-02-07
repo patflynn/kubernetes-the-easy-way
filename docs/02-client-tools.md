@@ -1,6 +1,6 @@
 # Installing the Client Tools
 
-In this lab you will install the command line utilities required to complete this tutorial: [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl).
+In this lab you will install the command line utilities required to complete this tutorial: [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl)
 
 ## Install kubectl
 
